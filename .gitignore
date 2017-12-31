@@ -13,6 +13,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+
 eggs/
 .eggs/
 lib/
@@ -99,3 +100,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+*.pdf
+*.zip
+*.rar
+*.pkl
+*.pickle
+articles/
