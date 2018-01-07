@@ -13,6 +13,8 @@ build/
 develop-eggs/
 dist/
 downloads/
+figures/
+old/
 
 eggs/
 .eggs/
